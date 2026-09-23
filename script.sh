@@ -1,0 +1,1 @@
+ECHO "dit is een script"
